@@ -1,1 +1,1 @@
-web: npm start
+web: node scripts/start-with-checks.js
